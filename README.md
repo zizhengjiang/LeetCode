@@ -10,6 +10,6 @@ Add Two Numbers (C++, Java, Python) - lc2
 
 Longest Substring Without Repeating Characters (C++, Java, Python) - lc3
 
-Merge Two Sorted Lists lc21
+Merge Two Sorted Lists (C++, Java, Python) - lc21
 
 Validate Binary Search Tree (C++, Java, Python) - lc98
