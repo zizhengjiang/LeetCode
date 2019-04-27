@@ -4,10 +4,12 @@
 
 **The parentheses mark what language I use and whether there is a comment.**
 
-1. Two Sum (C++, Java, Python)
-2. Add Two Numbers (C++, Java, Python)
-3. Longest Substring Without Repeating Characters (C++, Java, Python)
+Two Sum (C++, Java, Python) - lc1
 
-21. Merge Two Sorted Lists
+Add Two Numbers (C++, Java, Python) - lc2
 
-98. Validate Binary Search Tree (C++, Java, Python)
+Longest Substring Without Repeating Characters (C++, Java, Python) - lc3
+
+Merge Two Sorted Lists lc21
+
+Validate Binary Search Tree (C++, Java, Python) - lc98
