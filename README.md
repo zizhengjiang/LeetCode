@@ -8,5 +8,6 @@
 2. Add Two Numbers (C++, Java, Python)
 3. Longest Substring Without Repeating Characters (C++, Java, Python)
 
-98. Validate Binary Search Tree (C++, Java, Python)
+21. Merge Two Sorted Lists
 
+98. Validate Binary Search Tree (C++, Java, Python)
