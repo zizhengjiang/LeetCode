@@ -14,6 +14,8 @@ Valid Parentheses (C++, Java, Python) - lc20
 
 Merge Two Sorted Lists (C++, Java, Python) - lc21
 
+Permutations (C++, Java, Python) - lc46
+
 Validate Binary Search Tree (C++, Java, Python) - lc98
 
 Majority Element (C++, Java, Python) - (Boyer-Moore Majority Vote Algorithm) - lc169
