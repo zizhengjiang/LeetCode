@@ -33,3 +33,6 @@ Majority Element (C++, Java, Python) - (Boyer-Moore Majority Vote Algorithm) - l
 Binary Tree Right Side View (C++, Java, Python) - lc199
 
 Number of Islands (C++, Java, Python) - lc200
+
+Reverse Linked List (C++, Java, Python) - lc206
+
