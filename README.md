@@ -22,6 +22,8 @@ Group Anagrams (C++, Java, Python) - lc49
 
 Unique Paths II (C++, Java, Python) - lc63
 
+Remove Duplicates from Sorted List II (C++, Java, Python) - lc82
+
 Remove Duplicates from Sorted List (C++, Java, Python) - lc83
 
 Validate Binary Search Tree (C++, Java, Python) - lc98
