@@ -28,6 +28,8 @@ Remove Duplicates from Sorted List (C++, Java, Python) - lc83
 
 Validate Binary Search Tree (C++, Java, Python) - lc98
 
+Flatten Binary Tree to Linked List (C++, Java, Python) - lc114
+
 Majority Element (C++, Java, Python) - (Boyer-Moore Majority Vote Algorithm) - lc169
 
 Binary Tree Right Side View (C++, Java, Python) - lc199
