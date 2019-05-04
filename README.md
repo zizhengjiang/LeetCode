@@ -32,6 +32,8 @@ Flatten Binary Tree to Linked List (C++, Java, Python) - lc114
 
 Word Ladder (C++) - lc127
 
+Copy List with Random Pointer (C++, Java, Python) - lc138
+
 Majority Element (C++, Java, Python) - (Boyer-Moore Majority Vote Algorithm) - lc169
 
 Binary Tree Right Side View (C++, Java, Python) - lc199
