@@ -36,6 +36,8 @@ Copy List with Random Pointer (C++, Java, Python) - lc138
 
 LRU Cache (C++, Java, Python) - lc146
 
+Intersection of Two Linked Lists (C++, Java, Python) - lc160
+
 Majority Element (C++, Java, Python) - (Boyer-Moore Majority Vote Algorithm) - lc169
 
 Binary Tree Right Side View (C++, Java, Python) - lc199
