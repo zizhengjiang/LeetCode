@@ -50,3 +50,5 @@ Find Median from Data Stream (C++, Java, Python) - lc295
 
 Design Tic-Tac-Toe (C++, Java, Python) - lc348
 
+First Unique Character in a String (C++, Java, Python) - lc387
+
