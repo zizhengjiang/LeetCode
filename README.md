@@ -14,6 +14,8 @@ Valid Parentheses (C++, Java, Python) - lc20
 
 Merge Two Sorted Lists (C++, Java, Python) - lc21
 
+Merge k Sorted Lists (C++, Java, Python) - lc23
+
 Permutations (C++, Java, Python) - lc46
 
 Permutations II (C++, Java, Python) - lc47
