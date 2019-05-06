@@ -30,6 +30,8 @@ Validate Binary Search Tree (C++, Java, Python) - lc98
 
 Flatten Binary Tree to Linked List (C++, Java, Python) - lc114
 
+Binary Tree Maximum Path Sum (C++, Java, Python) - lc124
+
 Word Ladder (C++) - lc127
 
 Copy List with Random Pointer (C++, Java, Python) - lc138
