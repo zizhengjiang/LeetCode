@@ -36,6 +36,8 @@ Word Ladder (C++) - lc127
 
 Copy List with Random Pointer (C++, Java, Python) - lc138
 
+Word Break (C++, Java, Python) - lc139
+
 LRU Cache (C++, Java, Python) - lc146
 
 Intersection of Two Linked Lists (C++, Java, Python) - lc160
