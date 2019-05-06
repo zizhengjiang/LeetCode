@@ -30,6 +30,8 @@ Remove Duplicates from Sorted List (C++, Java, Python) - lc83
 
 Validate Binary Search Tree (C++, Java, Python) - lc98
 
+Construct Binary Tree from Preorder and Inorder Traversal (C++, Java, Python) - lc105
+
 Flatten Binary Tree to Linked List (C++, Java, Python) - lc114
 
 Binary Tree Maximum Path Sum (C++, Java, Python) - lc124
