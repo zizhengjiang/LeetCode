@@ -52,3 +52,4 @@ Design Tic-Tac-Toe (C++, Java, Python) - lc348
 
 First Unique Character in a String (C++, Java, Python) - lc387
 
+Valid Tic-Tac-Toe State (C++, Java, Python) - lc794
