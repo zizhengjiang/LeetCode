@@ -64,4 +64,6 @@ Concatenated Words (C++, Java) - lc472
 
 Top K Frequent Words (C++, Java, Python) - lc692
 
+Max Area of Island (C++, Java, Python) - lc695
+
 Valid Tic-Tac-Toe State (C++, Java, Python) - lc794
