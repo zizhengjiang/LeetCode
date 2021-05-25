@@ -2,6 +2,8 @@
 
 **For some questions I may add my own understanding and comments.**
 
+**Not 100% sure if the understanding is the easiest one**
+
 **The parentheses mark what language I use and whether there is a comment.**
 
 Two Sum (C++, Java, Python) - lc1
